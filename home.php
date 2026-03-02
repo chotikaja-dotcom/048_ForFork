@@ -1,1 +1,1 @@
-<?php echo "Arm Version"; ?>
+<?php echo "Arm"; ?>
